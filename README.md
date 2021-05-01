@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luizcipriano
-- 👀 I’m interested in JAVA and JAVASCRIPT 
+- 👀 I’m interested in Front-end 
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any project that can make me learn more 
 - 📫 How to reach me send me an email >>> luizciprianolb@gmail.com
