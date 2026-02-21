@@ -17,7 +17,7 @@ My focus is on building **intuitive, responsive, and accessible interfaces** usi
 
 #### 📊 GitHub Stats
 
-![Luiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luizcipriano&show_icons=true&theme=radical)
+![Luiz's GitHub stats](./profile/stats.svg)
 
 ---
 
